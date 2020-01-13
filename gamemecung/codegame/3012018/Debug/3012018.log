@@ -1,0 +1,17 @@
+﻿Build started 08/04/2018 8:50:15 PM.
+     1>Project "C:\Users\pc\Desktop\nmlt_bt\game\gamemecung\codegame\3012018\3012018.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\3012018.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         3012018.vcxproj -> C:\Users\pc\Desktop\nmlt_bt\game\gamemecung\codegame\Debug\3012018.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\3012018.unsuccessfulbuild".
+         Touching "Debug\3012018.lastbuildstate".
+     1>Done Building Project "C:\Users\pc\Desktop\nmlt_bt\game\gamemecung\codegame\3012018\3012018.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.12

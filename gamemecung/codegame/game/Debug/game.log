@@ -1,0 +1,24 @@
+﻿Build started 24/03/2018 1:14:25 PM.
+     1>Project "C:\Users\pc\Desktop\nmlt_bt\game\gamemecung\codegame\game\game.vcxproj" on node 3 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\game.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\..\..\..\Downloads\RanSanMoi\main.cpp ..\..\..\..\..\..\Downloads\RanSanMoi\Snake.cpp
+         Snake.cpp
+         main.cpp
+         Generating Code...
+     1>c:\users\pc\downloads\ransanmoi\snake.cpp(97): warning C4715: 'Snake::getDirection' : not all control paths return a value
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\pc\Desktop\nmlt_bt\game\gamemecung\codegame\Debug\game.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\game.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\pc\Desktop\nmlt_bt\game\gamemecung\codegame\Debug\game.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\pc\Desktop\nmlt_bt\game\gamemecung\codegame\Debug\game.lib" /MACHINE:X86 Debug\main.obj
+         Debug\Snake.obj
+         game.vcxproj -> C:\Users\pc\Desktop\nmlt_bt\game\gamemecung\codegame\Debug\game.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\pc\Desktop\nmlt_bt\game\gamemecung\codegame\Debug\game.exe;#1" /manifest Debug\game.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\game.unsuccessfulbuild".
+         Touching "Debug\game.lastbuildstate".
+     1>Done Building Project "C:\Users\pc\Desktop\nmlt_bt\game\gamemecung\codegame\game\game.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.12
